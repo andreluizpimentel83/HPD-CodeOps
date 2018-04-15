@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-   <h1> HPD CodeOps - Aula01 </h1>
+   <h1> HPD CodeOps - Aula 01 </h1>
    <h2> Treinamento Linux </h2>
    <ul>
 	<li> Instalar e configurar o linux </li>
