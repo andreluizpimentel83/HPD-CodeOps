@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-   <h1> HPD CodeOps - Aula2 </h1>
+   <h1> HPD CodeOps - Aula 02 </h1>
    <h2> Treinamento Git </h2>
    <ul>
 	<li> Instalar e configurar o Git </li>
