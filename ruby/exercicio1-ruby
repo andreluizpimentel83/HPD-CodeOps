@@ -1,0 +1,16 @@
+#!/usr/bin/ruby2.3
+#
+# 1. Escreva um metodo que faça validacao dos tipos(classes) do objeto com um parametro apenas;
+# 2. Se for string, faça X, se for numero faça Y, se for boleano: faça Z, por default: faça B;
+# 3. Em um arquivo .rb, simule a execução de cada validação.
+#
+#
+def metodo(param)
+	puts ""
+	puts "Argumento digitado '#{param}' é do tipo: '#{param.class}'"
+	puts "Convertendo para inteiro: #{param.to_i}"
+	puts "Convertendo para float: #{param.to_f}"
+end
+metodo(10)
+metodo("texto")
+metodo(0.5)
