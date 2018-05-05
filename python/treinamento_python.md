@@ -2,8 +2,6 @@
 <html>
    <h1> HPD CodeOps - Aula 04 </h1>
    <h2> Treinamento Python </h2>
-
-   <h2> Treinamento </h2>
    <ul>
 	<li> Estrutura de dados </li>
 	<li> Estruturas de controle </li>
