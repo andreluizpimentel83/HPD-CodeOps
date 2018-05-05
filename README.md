@@ -3,7 +3,7 @@
   <h1> Entrando no mundo DevOps... </h1>
 <body>
   <h3> Treinamento HPD Full Stack online </h3>
-  <img src="images/img-aula3.jpg">
+  <img src="images/img-treinamento4-python.jpg">
 <h2> Instrutores </h2>
 <ul>
 	<li> Jeferson Fernando </li>
