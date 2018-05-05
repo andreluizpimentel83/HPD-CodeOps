@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html>
-   <h1> CodeOps - Python </h1>
-
-   <h2> Treinamento </h2>
+   <h1> HPD CodeOps - Aula 04 </h1>
+   <h2> Treinamento Python </h2>
    <ul>
 	<li> Estrutura de dados </li>
 	<li> Estruturas de controle </li>
